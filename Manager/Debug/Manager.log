@@ -1,0 +1,5 @@
+﻿  Manager.cpp
+C:\Users\Гандон\source\repos\Manager\Manager\Prot.h(128): warning C4715: WriteMemory: значение возвращается не при всех путях выполнения
+C:\Users\Гандон\source\repos\Manager\Manager\Prot.h(48): warning C4715: AllocMemory: значение возвращается не при всех путях выполнения
+C:\Users\Гандон\source\repos\Manager\Manager\Prot.h(151): warning C4715: ReadMemory: значение возвращается не при всех путях выполнения
+  Manager.vcxproj -> C:\Users\Гандон\source\repos\Manager\Debug\Manager.exe
